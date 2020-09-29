@@ -1,4 +1,4 @@
-# Pr-diction_des_ventes_Big_Mart
+# Prédiction_des_ventes_Big_Mart
 
 Prévision des ventes pour les points de vente Big Mart
 Les data scientists de BigMart ont collecté des données de vente 2013 pour 1559 produits dans 10 magasins dans différentes villes. 
